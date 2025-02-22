@@ -1,0 +1,14 @@
+E:\code\user-zip\bin\Debug\net9.0\user-zip.exe
+E:\code\user-zip\bin\Debug\net9.0\user-zip.deps.json
+E:\code\user-zip\bin\Debug\net9.0\user-zip.runtimeconfig.json
+E:\code\user-zip\bin\Debug\net9.0\user-zip.dll
+E:\code\user-zip\bin\Debug\net9.0\user-zip.pdb
+E:\code\user-zip\obj\Debug\net9.0\user-zip.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\user-zip\obj\Debug\net9.0\user-zip.AssemblyInfoInputs.cache
+E:\code\user-zip\obj\Debug\net9.0\user-zip.AssemblyInfo.cs
+E:\code\user-zip\obj\Debug\net9.0\user-zip.csproj.CoreCompileInputs.cache
+E:\code\user-zip\obj\Debug\net9.0\user-zip.dll
+E:\code\user-zip\obj\Debug\net9.0\refint\user-zip.dll
+E:\code\user-zip\obj\Debug\net9.0\user-zip.pdb
+E:\code\user-zip\obj\Debug\net9.0\user-zip.genruntimeconfig.cache
+E:\code\user-zip\obj\Debug\net9.0\ref\user-zip.dll

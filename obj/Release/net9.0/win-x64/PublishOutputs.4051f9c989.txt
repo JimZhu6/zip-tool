@@ -1,0 +1,2 @@
+E:\code\zip-tool\bin\Release\net9.0\win-x64\publish\zip_tool.pdb
+E:\code\zip-tool\bin\Release\net9.0\win-x64\publish\zip_tool.exe

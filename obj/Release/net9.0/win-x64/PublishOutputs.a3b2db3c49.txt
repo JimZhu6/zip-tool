@@ -1,0 +1,2 @@
+E:\code\user-zip\bin\Release\net9.0\win-x64\publish\user-zip.pdb
+E:\code\user-zip\bin\Release\net9.0\win-x64\publish\user-zip.exe
